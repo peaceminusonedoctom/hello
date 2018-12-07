@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  IO PRACTICE
+//  IO practice 1
 //
 //  Created by 상일여고삼 on 2018. 12. 7..
 //  Copyright © 2018년 victory. All rights reserved.
